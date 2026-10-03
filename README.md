@@ -36,3 +36,9 @@ The report demonstrates how forensic methodologies (data acquisition, preservati
 - Strengthen forensic readiness and incident response plans.  
 
 ---
+## References
+1.	Exterro, Inc. (2024). FTK Imager (Version 4.7.3.81) [Computer software]. https://www.exterro.com/ftk-product-downloads/ftk-imager-4-7-3-81
+2.	MXToolbox, Inc. (n.d.). Email Header Analyzer. Retrieved November 16, 2025, from https://mxtoolbox.com/EmailHeaders.aspx
+3.	DuPont v. Kolon Industries. (n.d.). In Wikipedia. Retrieved November 16, 2025, from https://en.wikipedia.org/wiki/DuPont_v._Kolon_Industries 
+
+
